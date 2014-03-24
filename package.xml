@@ -24,7 +24,6 @@
 		<instruction type="gameRace">gameRace.xml</instruction>
 		<instruction type="gameRole">gameRole.xml</instruction>
 		<instruction type="gameClassification">gameClassification.xml</instruction>
-		<instruction type="objectType">objectType.xml</instruction>
 		<instruction type="language">language/*.xml</instruction>
 	</instructions>
 </package>
