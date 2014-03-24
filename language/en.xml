@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd">
+	<category name="gms.game">
+		<item name="gms.game.wildstar.title"><![CDATA[Wildstar Online]]></item>
+		
+		<item name="gms.game.wildstar.class.warrior"><![CDATA[Warrior]]></item>
+		<item name="gms.game.wildstar.class.spellslinger"><![CDATA[Spellslinger]]></item>
+		<item name="gms.game.wildstar.class.esper"><![CDATA[Esper]]></item>
+		<item name="gms.game.wildstar.class.medic"><![CDATA[Medic]]></item>
+		<item name="gms.game.wildstar.class.engineer"><![CDATA[Engineer]]></item>
+		<item name="gms.game.wildstar.class.stalker"><![CDATA[Stalker]]></item>
+
+		<item name="gms.game.wildstar.race.human"><![CDATA[Human]]></item>
+		<item name="gms.game.wildstar.race.granok"><![CDATA[Granok]]></item>
+		<item name="gms.game.wildstar.race.aurin"><![CDATA[Aurin]]></item>
+		<item name="gms.game.wildstar.race.mordesh"><![CDATA[Mordesh]]></item>
+		
+		<item name="gms.game.wildstar.race.cassian"><![CDATA[Cassian]]></item>
+		<item name="gms.game.wildstar.race.mechari"><![CDATA[Mechari]]></item>
+		<item name="gms.game.wildstar.race.draken"><![CDATA[Draken]]></item>
+		<item name="gms.game.wildstar.race.chua"><![CDATA[Chua]]></item>
+
+		<item name="gms.game.wildstar.role.dps"><![CDATA[DPS]]></item>
+		<item name="gms.game.wildstar.role.healer"><![CDATA[Healer]]></item>
+		<item name="gms.game.wildstar.role.tank"><![CDATA[Tank]]></item>
+	</category>
+</language>

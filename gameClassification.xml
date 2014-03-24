@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-class.xsd">
+	<import>
+		<!-- Internal identifiers are unknown (No API using this kind of data provided yet) -->
+		<classification name="warrior">
+			<races><![CDATA[human,granok,mordesh,cassian,mechari,draken]]></races>
+			<roles><![CDATA[dps,tank]]></roles>
+		</classification>
+		<classification name="spellslinger">
+			<races><![CDATA[human,aurin,mordesh,cassian,draken,chua]]></races>
+			<roles><![CDATA[dps,healer]]></roles>
+		</classification>
+		<classification name="engineer">
+			<races><![CDATA[human,granok,mordesh,cassian,mechari,chua]]></races>
+			<roles><![CDATA[dps,tank]]></roles>
+		</classification>
+		<classification name="stalker">
+			<races><![CDATA[human,aurin,mordesh,cassian,mechari,draken]]></races>
+			<roles><![CDATA[dps,tank]]></roles>
+		</classification>
+		<classification name="medic">
+			<races><![CDATA[human,granok,mordesh,cassian,mechari,chua]]></races>
+			<roles><![CDATA[dps,healer]]></roles>
+		</classification>
+		<classification name="esper">
+			<races><![CDATA[human,aurin,cassian,chua]]></races>
+			<roles><![CDATA[dps,healer]]></roles>
+		</classification>
+	</import>
+</data>

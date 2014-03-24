@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-role.xsd">
+	<import>		
+		<role name="dps" />
+		<role name="healer" />
+		<role name="tank" />
+	</import>
+</data>
